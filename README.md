@@ -103,4 +103,5 @@ data/marketing_campaign.csv
 - K-Means with 4 clusters provided a reasonable segmentation based on the Elbow Method.
 
 ## Author
-Student submission for Machine Learning Assignment 2.
+Hasan Azir SH.
+1320221651
